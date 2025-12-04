@@ -21,5 +21,5 @@ I am a **Software Engineer** graduating from **Atılım University**, passionate
 * **YouTube AI Agent:** An intelligent agent that analyzes artist data from YouTube using LLMs and Vector Embeddings.
 
 📫 **Let's Connect**
-* [LinkedIn](https://www.linkedin.com/in/karyaberilozmen/)
+* [LinkedIn](linkedin.com/in/karya-beril-özmen-486077281/)
 * [Email](mailto:karyaberilozmen@gmail.com)
